@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<curriculo>
+    <dados_pessoais>
+        <nome>Elon musk</nome>
+        <data_nascimento>09/12/2003</data_nascimento>
+        <email>vinicius.neves781@gmail.com</email>
+        <telefone>(22)981014876</telefone>
+        <sobre>Elon Reeve Musk é um empreendedor, empresário e filantropo sul-africano-canadense, naturalizado estadunidense.
+         Ele é o fundador, diretor executivo e diretor técnico da SpaceX; CEO da Tesla, Inc.; vice-presidente da OpenAI,
+         fundador e CEO da Neuralink; cofundador, presidente da SolarCity e proprietário do Twitter.</sobre>
+    </dados_pessoais>
+    <endereco>
+        <h2>Rua</h2>
+        <Rua>   R. Porto belo,420 </Rua>
+        <h2>Cidade</h2>
+        <Cidade>    Nova Petropolis </Cidade>
+        <h2>Bairro</h2>
+        <Bairro>    Prado </Bairro> 
+    </endereco>
+    <dados_profissionais>
+    <Tesla>Fundador da Tesla</Tesla>
+    <Twitter>Dono do Twitter</Twitter>
+    
+    
+    </dados_profissionais>
+    <dados_academicos>
+    </dados_academicos>
+</curriculo>
